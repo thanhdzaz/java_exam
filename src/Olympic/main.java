@@ -9,7 +9,7 @@ public class main {
     public static void main(String[] args) {
         ArrayList<VanDongVien> vdv = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
-        for (int i = 0; i<2; i++){
+        for (int i = 0; i<5; i++){
             System.out.printf("VDV thu %d \n",i+1);
             System.out.print("Nhap ten: ");
             String name = sc.next();
