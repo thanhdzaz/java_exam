@@ -1,6 +1,6 @@
 package Olympic;
 
-public abstract class Nguoi {
+public class Nguoi {
     String name,national;
     int age;
 
